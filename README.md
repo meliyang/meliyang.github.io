@@ -1,4 +1,4 @@
-PUI Assignment 5 README
+PUI Assignment 6 README
 Home page: home.html (click "Cookies" to go to product browsing, the cookie image to go to product detail, shopping cart to go to cart)
 Product browsing: product-browsing.html
 Product detail: product-detail.html
